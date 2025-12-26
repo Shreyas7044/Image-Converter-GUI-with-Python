@@ -15,7 +15,7 @@ This project is a simple Image Converter GUI application built using **Tkinter**
 - Pillow (PIL)
 
 ## Screenshot
-![App Screenshot](./screenshot.png)
+![App Screenshot](/screenshot.png.PNG)
 
 ## Installation & Usage
 1. Clone the repository
