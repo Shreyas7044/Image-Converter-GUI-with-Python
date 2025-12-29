@@ -19,4 +19,4 @@ This project is a simple Image Converter GUI application built using **Tkinter**
 2. Install dependencies
 
 ## Application Screenshot
-![Application Screenshot](Image-Converter-GUI-with-Python/screenshot.png)
+![Application Screenshot](Image%20Converter%20GUI%20with%20Python/screenshot.png)
